@@ -10,8 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@discordjs/builders": "^0.15.0",
-    "discord.js": "^13.8.0"
+    "@discordjs/builders": "^0.15.0"
   },
   "repository": {
     "type": "git",
